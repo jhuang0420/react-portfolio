@@ -1,0 +1,28 @@
+.home-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+#small-box {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    border-color: black;
+    border-style: dashed;
+    margin: 25px;
+    padding: 25px;
+}
+
+#long-box {
+    width: 450px;
+    height: 250px;
+    border-radius: 20px;
+    border-color: black;
+    border-style: dashed;
+    margin: 25px;
+    padding: 25px;
+
+}
